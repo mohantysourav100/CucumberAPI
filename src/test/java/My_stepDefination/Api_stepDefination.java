@@ -108,6 +108,7 @@ public class Api_stepDefination {
 	        
 	    	final_response.body("msg",equalTo("Address successfully updated"));
 	    	System.out.println("Successfully updated");
+	    	System.out.println("Git version control");
 	    }
 
 	    @And("^User should see the updated addreess as part of response$")
