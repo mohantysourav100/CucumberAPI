@@ -64,6 +64,7 @@ public class stepDefination {
 	    public void user_should_see_all_my_mails_listed_under_gmail() throws Throwable {
 	    	
 	    	System.out.println("Sussessfully signed in to Gmail");
+	    	System.out.println("I successfully signed in");
 	    }
 
 }
